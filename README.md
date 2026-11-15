@@ -111,7 +111,7 @@ which file or folder Yazi hovers afterwards.
 
 ## The yazi-contrib ecosystem
 
-Plugins of Yazi, one repository for each: `viewer.yazi`, `layout.yazi`, `starship.yazi`, `finder.yazi`.
+Plugins of Yazi, one repository for each: `viewer.yazi`, `layout.yazi`, `starship.yazi`, `finder.yazi`, `tailscale.yazi`.
 
 ## License
 
